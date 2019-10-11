@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "连为报修平台",
+  "usingComponents": {
+    "m-input": "/components/m-input"
+  }
+}

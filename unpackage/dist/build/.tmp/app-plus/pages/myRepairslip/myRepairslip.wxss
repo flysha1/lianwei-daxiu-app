@@ -1,0 +1,49 @@
+
+.status_bar_content.data-v-5d116f38 {
+	color: #333333;
+}
+.status_bar_content.data-v-5d116f38 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+}
+.status_bar_content_main.data-v-5d116f38 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	padding: 5px;
+	margin: 5px;
+	background-color: #fff;
+}
+.search.data-v-5d116f38 {
+	text-align: left;
+}
+.icon-search.data-v-5d116f38 {
+	line-height: 22px;
+}
+.item.data-v-5d116f38 {
+	background-color: #fff;
+	margin-top: 10px;
+	padding: 5px 10px;
+}
+.row.data-v-5d116f38 {
+	margin: 10px 0;
+}
+.label.data-v-5d116f38 {
+	width: 30%;
+}
+.info.data-v-5d116f38 {
+	width: 70%;
+}
+.more.data-v-5d116f38 {
+	margin-top: 10px;
+	text-align: center;
+	font-weight: bold;
+}
+

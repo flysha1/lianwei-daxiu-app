@@ -1,0 +1,23 @@
+
+.form-content-input.data-v-64e77e04 {
+	width: 90%;
+	font-size: 18px;
+	line-height: 2em;
+	height: 2em;
+	min-height: 0;
+	border: 0.5px solid #ccc;
+	border-radius: 5px;
+	padding-left: 10px;
+}
+.textarea.data-v-64e77e04{
+	    height: 5em;
+}
+.btn-submit.data-v-64e77e04{
+	margin-top: 10px;
+	padding: 0 15px;
+}
+.btn-others.data-v-64e77e04{
+	 width: 85px;
+	 display: inline-block;
+}
+

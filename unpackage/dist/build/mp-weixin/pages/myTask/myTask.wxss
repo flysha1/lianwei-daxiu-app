@@ -1,0 +1,33 @@
+
+.flag.data-v-3b5f7f22 {
+	width: 90rpx;
+	height: 90rpx;
+}
+.lists.data-v-3b5f7f22 {
+	height: 90vh;
+}
+.task-item.data-v-3b5f7f22 {
+	background: #fff;
+	margin-bottom: 10px;
+}
+.task-item-icon.data-v-3b5f7f22 {
+	width: 15%;
+	margin: 10% 10px 0 10px;
+}
+.task-item-main.data-v-3b5f7f22 {
+	width: 85%;
+}
+.task-item-main .row.data-v-3b5f7f22 {
+	margin: 20rpx 0;
+}
+.label.data-v-3b5f7f22 {
+	width: 35%;
+}
+.info.data-v-3b5f7f22 {
+	width: 65%;
+}
+.gutter.data-v-3b5f7f22 {
+	width: 100%;
+	border-bottom: 2px solid #333333;
+}
+

@@ -1,0 +1,6 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "uni-card": "/components/uni-card/uni-card"
+  }
+}

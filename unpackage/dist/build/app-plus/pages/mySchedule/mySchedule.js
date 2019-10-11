@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"content { padding: 0; }\n.",[1],"edit { z-index: 999; position: absolute; right: 10px; top: 7px; }\n.",[1],"icon-edit { height: 30px; width: 30px; }\n",],undefined,{path:"./pages/mySchedule/mySchedule.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/mySchedule/mySchedule.wxml') } }));

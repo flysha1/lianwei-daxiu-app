@@ -1,0 +1,49 @@
+
+.status_bar_content.data-v-54356647 {
+	color: #333333;
+}
+.status_bar_content.data-v-54356647 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+}
+.status_bar_content_main.data-v-54356647 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	padding: 5px;
+	margin: 5px;
+	background-color: #fff;
+}
+.search.data-v-54356647 {
+	text-align: left;
+}
+.icon-search.data-v-54356647 {
+	line-height: 22px;
+}
+.item.data-v-54356647 {
+	background-color: #fff;
+	margin-top: 10px;
+	padding: 5px 10px;
+}
+.row.data-v-54356647 {
+	margin: 10px 0;
+}
+.label.data-v-54356647 {
+	width: 30%;
+}
+.info.data-v-54356647 {
+	width: 70%;
+}
+.more.data-v-54356647 {
+	margin-top: 10px;
+	text-align: center;
+	font-weight: bold;
+}
+

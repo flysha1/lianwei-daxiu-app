@@ -1,0 +1,52 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/mySchedule/mySchedule",
+    "pages/mySchedule/scheduleEdit",
+    "pages/reg/reg",
+    "pages/pwd/pwd",
+    "pages/user/user",
+    "pages/myTask/myTask",
+    "pages/myTask/taskInfo",
+    "pages/myRepairslip/myRepairslip"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarBackgroundColor": "#0faeff",
+    "backgroundColor": "#fbf9fe"
+  },
+  "tabBar": {
+    "color": "#7a7e83",
+    "selectedColor": "#0faeff",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/mySchedule/mySchedule",
+        "text": "我的日程",
+        "iconPath": "static/img/mySchedule.png",
+        "selectedIconPath": "static/img/myScheduleHL.png"
+      },
+      {
+        "pagePath": "pages/myTask/myTask",
+        "text": "我的任务",
+        "iconPath": "static/img/MyTask.png",
+        "selectedIconPath": "static/img/MyTaskHL.png"
+      },
+      {
+        "pagePath": "pages/myRepairslip/myRepairslip",
+        "text": "我的报修单",
+        "iconPath": "static/img/myRepairslip.png",
+        "selectedIconPath": "static/img/myRepairslipHL.png"
+      },
+      {
+        "pagePath": "pages/user/user",
+        "text": "个人中心",
+        "iconPath": "static/img/user.png",
+        "selectedIconPath": "static/img/userHL.png"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}

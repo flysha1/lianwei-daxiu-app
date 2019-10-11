@@ -1,0 +1,50 @@
+
+.icon-back.data-v-128e0c6e {
+	position: absolute;
+	z-index: 999;
+	left: 10px;
+	bottom: 0px;
+}
+.tab-title.data-v-128e0c6e {
+	margin-top: 10px;
+	margin-bottom: 5px;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+}
+.tab-title-item.data-v-128e0c6e {
+	width: 80px;
+	text-align: center;
+	padding: 5px 0px;
+	margin: 0 10px;
+}
+.tab-title-item-active.data-v-128e0c6e {
+	border-bottom: 2px solid rgb(15, 174, 255);
+	color: rgb(15, 174, 255);
+}
+.tab-content.data-v-128e0c6e {
+	background-color: #fff;
+	min-height: 84vh;
+}
+.form-title.data-v-128e0c6e {
+	text-align: center;
+	padding: 10px;
+	margin: 0 5px;
+	font-size: 20px;
+	border-bottom: 0.5px solid #555;
+}
+.btn.data-v-128e0c6e {
+	padding: 0 10px;
+}
+.btn-option.data-v-128e0c6e {
+	color: #fff;
+	margin-top: 10px;
+}
+.btn-refuse.data-v-128e0c6e {
+	background-color: #ffc700;
+}
+.btn-refuse-hover.data-v-128e0c6e {
+	background-color: #d6b646
+}
+

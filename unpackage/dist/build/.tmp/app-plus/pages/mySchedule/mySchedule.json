@@ -1,0 +1,6 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "reserve-date": "/components/reserve-date/reserve-date"
+  }
+}

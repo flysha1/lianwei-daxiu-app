@@ -1,0 +1,16 @@
+
+.content {
+
+	padding: 0;
+}
+.edit {
+	z-index: 999;
+	position: absolute;
+	right: 10px;
+	top: 7px;
+}
+.icon-edit {
+	height: 30px;
+	width: 30px;
+}
+
